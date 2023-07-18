@@ -1,0 +1,12 @@
+Загальний концепт проекту:
+1. ОДЗ
+2. Точки перетину ох та оу
+3. Парність/непарність/періодичність
+4. Точки розриву
+5. Монотонність
+6. Опуклість
+7. Рівняння асимптот
+8. Побудувати графік
+
+https://yukhym.com/uk/doslidzhennya-funktsiji/doslidzhennya-funktsiji-pobudova-grafika.html
+https://yukhym.com/uk/doslidzhennya-funktsiji/povne-doslidzhennia-funktsii-pobudova-hrafika.html
